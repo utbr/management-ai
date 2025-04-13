@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #65a3b4;
+    padding: 16px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-top: 1px solid #d1d5db;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.icon {
+    width: 32px;
+    height: 32px;
+    color: black;
+    cursor: pointer;
+}
