@@ -5,12 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="650d4176-9056-40e8-9ff8-e63aadfd08f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/management/src/main/java/com/student/management/controller/ActivityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/management/src/main/java/com/student/management/model/Activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/management/src/main/java/com/student/management/repository/ActivityRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/management-frontenda/student-management-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/management-frontenda/student-management-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/management-frontenda/student-management-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/management-frontenda/student-management-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/management-frontenda/student-management-frontend/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/management-frontenda/student-management-frontend/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/management-frontenda/student-management-frontend/src/components/PrivateRoute.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/management-frontenda/student-management-frontend/src/components/PrivateRoute.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/management-frontenda/student-management-frontend/src/context/AuthContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/management-frontenda/student-management-frontend/src/context/AuthContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/management-frontenda/student-management-frontend/src/pages/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/management-frontenda/student-management-frontend/src/pages/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/src/main/java/com/student/management/config/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/management/src/main/java/com/student/management/config/SecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/management/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,6 +41,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JoaovSilva2005"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:gabrielfariadevv/management-ai.git",
+    "accountId": "e71fb8ba-9f23-4c15-8ab0-7c25da6f6dec"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -34,6 +64,9 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2venh7ClGkrje4NxO7Eh2Gnsy9m" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -46,7 +79,10 @@
     "RequestMappingsPanelWidth0": "75",
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.ManagementApplication.executor": "Run",
+    "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -55,6 +91,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -84,6 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744514523520</updated>
       <workItem from="1744514524579" duration="3832000" />
+      <workItem from="1744596291557" duration="2970000" />
     </task>
     <servers />
   </component>
