@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="650d4176-9056-40e8-9ff8-e63aadfd08f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/management/src/main/java/com/student/management/controller/ActivityController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/management/src/main/java/com/student/management/model/Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/management/src/main/java/com/student/management/repository/ActivityRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/management-frontenda/student-management-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/management-frontenda/student-management-frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/management-frontenda/student-management-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/management-frontenda/student-management-frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/management-frontenda/student-management-frontend/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/management-frontenda/student-management-frontend/src/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/management-frontenda/student-management-frontend/src/components/PrivateRoute.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/management-frontenda/student-management-frontend/src/components/PrivateRoute.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/management-frontenda/student-management-frontend/src/context/AuthContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/management-frontenda/student-management-frontend/src/context/AuthContext.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/management-frontenda/student-management-frontend/src/pages/Login.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/management-frontenda/student-management-frontend/src/pages/Login.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/management/src/main/java/com/student/management/config/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/management/src/main/java/com/student/management/config/SecurityConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/management/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/management/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/management/src/main/java/com/student/management/controller/ExerciseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/management-frontenda/student-management-frontend/src/pages/ExerciseGenerator.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/management-frontenda/student-management-frontend/src/pages/ExerciseGenerator.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/src/main/java/com/student/management/model/Exercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/management/src/main/java/com/student/management/model/Exercise.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1744514523520</updated>
       <workItem from="1744514524579" duration="3832000" />
-      <workItem from="1744596291557" duration="2970000" />
+      <workItem from="1744596291557" duration="3861000" />
     </task>
     <servers />
   </component>
